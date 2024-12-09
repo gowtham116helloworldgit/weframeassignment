@@ -1,0 +1,134 @@
+.articles-container {
+  display: flex;
+  margin-bottom: 20px;
+}
+.blue-arrow {
+  background-color: blue;
+  width: 70px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  margin-top: 100px;
+}
+.left-icon {
+  width: 30px;
+  height: 30px;
+  color: white;
+}
+.article-data-container {
+  background-color: #f8f6f4;
+  width: 250px;
+  height: 300px;
+  margin-left: 50px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.row-container1 {
+  display: flex;
+  justify-content: space-between;
+}
+.loves-icon {
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+}
+.art-table {
+  background-color: white;
+  width: 100px;
+  height: 30px;
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  font-family: 'Roboto';
+  font-size: 10px;
+  margin-right: 10px;
+}
+.table-chair {
+  height: 200px;
+  width: 200px;
+  background-size: cover;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.content-container {
+  display: flex;
+  width: 300px;
+  justify-content: space-between;
+}
+.title-heading {
+  color: black;
+  font-family: 'Bree Serif';
+  font-size: 20px;
+}
+.column-container {
+  display: flex;
+  flex-direction: column;
+}
+.title-new-container {
+  display: flex;
+  margin-left: 50px;
+  justify-content: space-between;
+}
+.title-one-container {
+  display: flex;
+}
+.title-heading {
+  color: black;
+  font-size: 20px;
+  font-weight: 400;
+}
+.c-para {
+  color: #686868;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+.r-para {
+  color: #686868;
+  font-family: 'Roboto';
+  font-size: 10px;
+}
+.title-two-container {
+  display: flex;
+  flex-direction: column;
+}
+.zero-para {
+  font-size: 20px;
+  color: black;
+}
+.twenty-para {
+  color: black;
+  font-size: 10px;
+  background-color: #f9f9f9;
+  width: 70px;
+  height: 20px;
+  border-radius: 5px;
+}
+.ces-container {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 30px;
+}
+.ces-heading {
+  color: black;
+  font-size: 20px;
+}
+.head-container {
+  display: flex;
+  flex-direction: column;
+}
+.voir-heading {
+  color: #686868;
+  font-size: 15px;
+  text-decoration: underline;
+  padding-right: 30px;
+}
+.another-image-container{
+  display: flex;
+  margin-left: 60px;
+}

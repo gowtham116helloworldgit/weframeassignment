@@ -1,0 +1,125 @@
+.detail-section-container {
+  background-image: linear-gradient(to bottom, #fff0f5, white);
+  height: 600px;
+  margin-top: 20px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.on-para {
+  color: black;
+  font-size: 25px;
+}
+.tout-para {
+  color: blue;
+  font-size: 25px;
+}
+.office-para {
+  color: #686868;
+  font-size: 10px;
+}
+.icons-container {
+  display: flex;
+  margin-top: 10px;
+}
+.luggage-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.luggage-image {
+  width: 50px;
+  height: 50px;
+  background-size: cover;
+}
+.rep-para {
+  color: black;
+  font-size: 15px;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+.selon-para {
+  color: #686868;
+  font-size: 10px;
+  padding-left: 20px;
+}
+.hori-line {
+  width: 60px;
+  height: 1.5px;
+  color: #686868;
+  margin-top: 30px;
+}
+.selon-para2 {
+  color: #686868;
+  font-size: 10px;
+}
+.big-image {
+  width: 600px;
+  height: 250px;
+  background-size: cover;
+  margin: 20px;
+  border-radius: 5px;
+}
+.pink-container {
+  background-color: #ffe4e1;
+  width: 600px;
+  margin: 20px;
+  height: 250px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
+}
+.newly-container {
+  display: flex;
+}
+.ins-heading {
+  color: black;
+  font-size: 20px;
+  font-weight: 600;
+  padding-left: 20px;
+}
+.percent-span {
+  color: blue;
+  font-size: 20px;
+  font-weight: 600;
+}
+.sum-para {
+  color: #686868;
+  font-size: 15px;
+  padding-left: 15px;
+  padding-right: 30px;
+}
+.joh-container {
+  display: flex;
+}
+.white-container {
+  width: 350px;
+  border-radius: 8px;
+  height: 50px;
+  margin-left: 20px;
+  background-color: white;
+  border: 0.5px solid #686868;
+  display: flex;
+  align-items: center;
+  color: #686868;
+  font-size: 15px;
+  padding-left: 20px;
+}
+.inscire-button{
+  background-color: blue;
+  width: 150px;
+  margin-left: 20px;
+  border-radius: 5px;
+  height: 50px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 15px;
+  border: none;
+}
